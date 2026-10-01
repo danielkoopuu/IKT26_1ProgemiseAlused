@@ -13,7 +13,7 @@
             }
             else
             {
-                Console.WriteLine("sina ei ole Mati,vaid hoopis   "  +  name);
+                Console.WriteLine("sina ei ole Mati,vaid hoopis "  +  name);
             }
             
         }
