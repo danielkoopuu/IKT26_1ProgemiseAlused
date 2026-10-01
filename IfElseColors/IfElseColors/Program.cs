@@ -30,7 +30,7 @@
 
 
             }
-            else if (color == " green")
+            else if (color == "green")
             {
                 Console.WriteLine("See on roheline");
             }
