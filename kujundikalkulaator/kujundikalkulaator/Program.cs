@@ -24,7 +24,7 @@
 
             Console.WriteLine("Ringi pindala: " + ringiPindala);
             Console.WriteLine("Ringi ümbermõõt: " + ringiUmbermoot);
-    
+       
         }
     }
 }
